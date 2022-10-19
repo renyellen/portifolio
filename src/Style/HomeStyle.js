@@ -16,13 +16,23 @@ export default function Home() {
         <S.H2>Dev, Marketeira, Administradora e</S.H2>
       </S.Div>
       <main>
-        <S.Img src={Element} alt="element" />
-        <S.Imagi src={Wallpaper} alt="wall" />
+        
       </main>
       <S.Box>
-        <a href="">
+        <a href="https://github.com/renyellen">
           <S.Image src={github} />
         </a>
+        <a href="https://www.facebook.com/renyellen.santos">
+          <S.Image src={facebook} />
+        </a>
+        <a href="https://www.instagram.com/renyellen_/">
+          <S.Image src={instagram} />
+        </a>
+        <a href="https://www.instagram.com/renyellen_/">
+          <S.Image src={instagram} />
+        </a>
+        a href="malito:contato.renyellen@gmail.com">
+          <S.Image src={Email} />
         </S.Box>
       <S.Divi>
         <S.Profile src={Profile} alt="Renyellen Machado" />
