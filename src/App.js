@@ -9,7 +9,21 @@ import Work from "./Components/Work.js";
     return (
     <Router>
       <S.GlobalStyle />
-      
+      <S.Header>
+        <S.Nav>
+          <S.Ul>
+            <S.Link href="/">
+              <S.Li>Home</S.Li>
+            </S.Link>
+            <S.Link href="/Work">
+              <S.Li>Work</S.Li>
+            </S.Link>
+            <S.Link href="/Ods">
+              <S.Li>ODS</S.Li>
+            </S.Link>
+          </S.Ul>
+        </S.Nav>
+      </S.Header>
       <Routes>
         <Route path="/Ods" element={<Ods />} />
         <Route path="/" element={<Home />} />

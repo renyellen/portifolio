@@ -4,7 +4,7 @@ import * as S from "../Style/WorkStyle";
 export default function Ods() {
   return (
 
-      <>zz<p>O que é ODS ? A Agenda 2030 é a nossa Declaração Global de Interdependência.”
+      <>O que é ODS ?<p> A Agenda 2030 é a nossa Declaração Global de Interdependência.”
       António Guterres, Secretário Geral da ONU
     </p><p>A Conferência das Nações Unidas sobre o Meio Ambiente e o Desenvolvimento, que ficou conhecida como Rio 92, reuniu mais de 100 chefes de Estado na cidade do Rio de Janeiro, em 1992, para discutir como garantir às gerações futuras o direito ao desenvolvimento. Na Declaração do Rio sobre Meio Ambiente, os países concordaram com a promoção do desenvolvimento sustentável, com foco nos seres humanos e na proteção do meio ambiente como partes fundamentais desse processo.
 
